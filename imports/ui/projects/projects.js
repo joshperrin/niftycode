@@ -24,7 +24,7 @@ const Projects = () => {
           Code Examples
         </Title>
 
-        <Link href="http://www.github.com">
+        <Link href="https://github.com/joshperrin/niftycode" target="_blank">
           view on github
         </Link>
 
